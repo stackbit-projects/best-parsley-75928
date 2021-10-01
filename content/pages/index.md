@@ -112,6 +112,25 @@ sections:
       Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-b
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    people: []
+    type: FeaturedPeopleSection
   - type: ContactSection
     variant: variant-b
     colors: colors-h
@@ -157,23 +176,4 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
-  - elementId: ''
-    colors: colors-a
-    width: wide
-    height: tall
-    topGap: medium
-    bottomGap: medium
-    contentWidth: large
-    contentAlignHoriz: left
-    contentAlignVert: middle
-    textAlign: left
-    variant: variant-b
-    badge:
-      elementId: ''
-      label: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    people: []
-    type: FeaturedPeopleSection
 ---
