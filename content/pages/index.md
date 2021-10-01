@@ -180,5 +180,6 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+          label: test 2
       submitLabel: Send Message
 ---
