@@ -176,7 +176,7 @@ sections:
           label: Sign me up to receive updates
           width: full
         - name: Test
-          placeholder: lorem-ipsum
+          placeholder: test 2
           isRequired: false
           width: full
           type: TextFormControl
