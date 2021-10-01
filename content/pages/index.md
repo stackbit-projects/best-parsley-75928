@@ -176,7 +176,7 @@ sections:
           label: Sign me up to receive updates
           width: full
         - name: Test
-          label: lorem-ipsum
+          label: l
           placeholder: lorem-ipsum
           isRequired: false
           width: full
