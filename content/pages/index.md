@@ -37,22 +37,6 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
-  - type: FeaturedPostsSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    contentWidth: medium
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    bottomGap: none
-    topGap: none
-    title: Blog Posts
-    textAlign: center
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
   - elementId: ''
     colors: colors-a
     width: wide
@@ -72,6 +56,22 @@ sections:
     actions: []
     people: []
     type: FeaturedPeopleSection
+  - type: FeaturedPostsSection
+    variant: variant-b
+    colors: colors-c
+    width: wide
+    height: short
+    contentWidth: medium
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    bottomGap: none
+    topGap: none
+    title: Blog Posts
+    textAlign: center
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-h
